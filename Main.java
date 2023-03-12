@@ -117,6 +117,7 @@ class Call {
         s.display();
     }
 }
+
 // This is the main class used for call all class
 public class Main {
     static {
